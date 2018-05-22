@@ -1,1 +1,1 @@
-# DAX_CalendarTable
+# DAX - Calendar Table (Date Dimension)
